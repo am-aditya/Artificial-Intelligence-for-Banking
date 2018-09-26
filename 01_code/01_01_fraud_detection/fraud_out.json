@@ -1,0 +1,21 @@
+{
+    "trans_rec_details": [
+        {
+            "fraud_1": {
+                "txTime": "10:22:57",
+                "cust_id": 1354564,
+                "card_type": "American Express Coporate Green Card",
+                "fraudReason": "Transaction in a new country,Transaction in a country greater than average distance moved previously",
+                "fraudFlag": 0,
+                "fraudProb": 0.2,
+                "txDate": "2018-09-19",
+                "txLong": 67.71,
+                "txLat": 33.9391,
+                "fraudSMS": "A transaction of $10 was made on your credit card. Was this transaction done by you? Reply 'Yes' or 'No' to confirm.",
+                "txAmt": 10,
+                "txCntry": "Afghanistan",
+                "vendor": "CINNAMON GRAND"
+            }
+        }
+    ]
+}

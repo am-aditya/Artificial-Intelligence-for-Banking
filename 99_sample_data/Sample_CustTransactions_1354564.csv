@@ -1,0 +1,13 @@
+Gender,Age,HouseType,ContactAvailability,HomeCountry,CreditScore,AccountNo,MerchantID,CardExpiryDate,TransactionAmount,TransactionCountry,LargePurchase,RiskBucket,DeclineReason,PotentialFraud,Product,TransactionDate
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,282.735872,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-04-24 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,7.13,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-05-01 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,289.865872,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-05-20 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,9171002827,NULL,21.762,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-09-15 12:40:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,15.490328,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-09-17 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,239.58226,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-09-17 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,6.51,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-10-01 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,283.344588,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2016-10-21 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,25.60848,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2017-06-16 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,3040588345,NULL,0.0062,Singapore,0,NULL,NULL,0,Corp Green,2017-06-16 12:22:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,0.775,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2017-07-01 12:00:00
+Unknown,41,Owned,High,Singapore,NULL,1354564,,NULL,26.38348,Singapore,0,NULL,NULL,0,American Express Coporate Green Card,2017-07-24 12:00:00
